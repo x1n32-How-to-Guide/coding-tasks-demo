@@ -92,7 +92,6 @@ public class Calculator2Test {
 			System.out.println("Test passed: " + testPassed + " total = " + totalTests);
 			double percentageCleared = ((float) testPassed / totalTests);
 			percentageCleared = percentageCleared * 100;
-			percentageCleared = 0;
 
 			// Feedback
 			Writer.write("\n <br>\nFor Calculator 2, You have passed " + testPassed + " out of " + totalTests

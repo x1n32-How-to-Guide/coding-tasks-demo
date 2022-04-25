@@ -7,7 +7,7 @@
  <br/><br> 
 ==================
 <br>
-### 2022/04/25 14:48:59 
+### 2022/04/25 14:49:44 
  <br>
  - Positive answer check... WORKS! 
  - Final check... Quadratic Formula for both answers.... WORKS! 
@@ -19,6 +19,5 @@
  <br>
 For Calculator 2, You have passed 6 out of 6 tests. 
  <br>
-
-Have a try!.
+ALL CORRECT! CONGRATULATIONS!
  <br>
