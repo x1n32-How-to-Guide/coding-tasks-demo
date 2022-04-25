@@ -75,7 +75,7 @@ public class Calculator2 extends Calculator{
         float square = squareOfB(b);
         float fourac = fourAC(a, c);
         double sqr = squareRootAnswer(square, fourac);
-        double negativeAns = (-b + sqr) /(2*a);
+        double negativeAns = (-b - sqr) /(2*a);
         return negativeAns;
 
     

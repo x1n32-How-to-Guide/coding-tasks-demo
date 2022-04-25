@@ -7,19 +7,17 @@
  <br/><br> 
 ==================
 <br>
-### 2022/04/25 14:31:09 
+### 2022/04/25 14:31:48 
  <br>
  - Positive answer check... WORKS! 
- - quadraticFormula method: Overall, the final function doesn't give the right answer 
-org.opentest4j.AssertionFailedError:  - Using the answer form the square root function, it should SUBTRACT from -b, then divide it by 2a ==> expected: <-0.8860009363293826> but was: <3.3860009363293826>
+ - Final check... Quadratic Formula for both answers.... WORKS! 
  - Square Root method WORKS! 
  - 4AC method WORKS! 
  - Square of B method WORKS! 
- - Negative answer of the quadraticFormula method: failed. 
-org.opentest4j.AssertionFailedError:  - Using the answer form the square root function, it should SUBTRACT from -b, then divide it by 2a ==> expected: <-0.8860009363293826> but was: <3.3860009363293826>
+ - Negative answer check... WORKS! 
 
  <br>
-For Calculator 2, You have passed 4 out of 6 tests. 
+For Calculator 2, You have passed 6 out of 6 tests. 
  <br>
 
 Have a try!.

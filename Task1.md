@@ -72,8 +72,8 @@ Open calculator2.java
 
 - [x] Fix squareOfB so that it returns the square value of input B
 - [x] Fix fourAC so that it returns the value of 4 x input a x input c
-- [ ] Fix squareRootAnswer so that it returns the square root of (B squared - 4AC)
-- [ ] Fix positive answer method/function
+- [x] Fix squareRootAnswer so that it returns the square root of (B squared - 4AC)
+- [x] Fix positive answer method/function
 - [ ] Now do the same for the negative answer but use - instead of +
 - [ ] Using all the functions you have created, put it all into the final function 'quadraticFormula' to find the answer.
 
