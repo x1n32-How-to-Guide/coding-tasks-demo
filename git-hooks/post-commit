@@ -12,7 +12,7 @@ checkbox2 = False #Calc 1
 checkbox3 = False #Calc 1
 
 #The add test has 3 checks in calculator(1)
-lineToFind1 = "Adding two positive numbers WORKS!"
+lineToFind1 = "Adding two positive numbers WORKS!" 
 lineToFind2 = "Adding two negative numbers WORKS!"
 lineToFind3 = "Adding a positive number and a negative number WORKS!"
 
