@@ -88,8 +88,8 @@ public class Calculator2 extends Calculator{
      */
     public void quadraticFormula(float a, float b, float c) {
         //Replace ___ with the right function below to call the positive and negative answer.
-      //  System.out.println(______________(a, b, c)); 
-      //  System.out.println(______________(a, b, c));
+        System.out.println(positiveAnswer(a, b, c)); 
+        System.out.println(negativeAnswer(a, b, c));
 	}
 
     
