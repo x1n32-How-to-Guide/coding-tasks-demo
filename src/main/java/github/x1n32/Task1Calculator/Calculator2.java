@@ -55,12 +55,13 @@ public class Calculator2 extends Calculator{
 
 
         // return positiveAns;
-        //double sqr = squareRootAnswer(square, fourac); //Takes values square and 4ac to be square rooted. They need to be initialised first in order for this to be used.
-        //float square = squareOfB(b);                   //Initialising the variable square with the value of b * b
-        //float fourac = fourAC(a, c);                   //Initialising the variable fourac with the value of 4 * a * c
-        //double positiveAns = (-b + sqr) /(2*a);        //Requires the value sqr to computer the answer.
+       
+        float square = squareOfB(b);                   //Initialising the variable square with the value of b * b
+        float fourac = fourAC(a, c);                   //Initialising the variable fourac with the value of 4 * a * c
+        double sqr = squareRootAnswer(square, fourac); //Takes values square and 4ac to be square rooted. They need to be initialised first in order for this to be used.
+        double positiveAns = (-b + sqr) /(2*a);        //Requires the value sqr to computer the answer.
         
-        return 0; //DELETE THIS LINE
+        return positiveAns;
     }
 
     /**
@@ -71,14 +72,14 @@ public class Calculator2 extends Calculator{
         //All the code you need is here, but with some values missing
         //Look at positive answer if you are struggling
 
-        //float square = squareOfB(_);
-        //float fourac = fourAC(a, c);
-        //double sqr = squareRootAnswer(______, fourac);
-        //double negativeAns = (________) /(2*a);
-        //return negativeAns;
+        float square = squareOfB(b);
+        float fourac = fourAC(a, c);
+        double sqr = squareRootAnswer(square, fourac);
+        double negativeAns = (-b + sqr) /(2*a);
+        return negativeAns;
 
     
-        return 0; //DELETE THIS LINE
+       
     }
 
 
