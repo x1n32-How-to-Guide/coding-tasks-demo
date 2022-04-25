@@ -17,7 +17,7 @@ lineToFind2 = "Adding two negative numbers WORKS!"
 lineToFind3 = "Adding a positive number and a negative number WORKS!"
 
 
-# Reading file to see if test passed
+# Reading file to see if test passed 
 file = open("calculator1Report.md", "r")
 for line in file:
     line = line.strip()
