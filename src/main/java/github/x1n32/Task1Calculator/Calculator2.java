@@ -22,7 +22,7 @@ public class Calculator2 extends Calculator{
      *  Which is b * b
      */
     public float squareOfB(float b){
-        return 0; // Change 0 to: b * b
+        return b * b; // Change 0 to: b * b
     }
 
     /**
@@ -31,7 +31,7 @@ public class Calculator2 extends Calculator{
      * Which is 4 * a * c
      */
     public float fourAC(float a, float c){
-        return 0;
+        return 4 * a * c;
     }
   
     /**
@@ -40,7 +40,7 @@ public class Calculator2 extends Calculator{
      * Hint: Math.sqrt(X)
      */
     public double squareRootAnswer(float squareOfB, float fourAC){
-        return 0;
+        return Math.sqrt(squareOfB + fourAC);
     }
 
     /**
