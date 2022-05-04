@@ -1,7 +1,7 @@
 <br> 
 ==================
 <br>
-### 2022/05/04 10:12:14 
+### 2022/05/04 10:13:05 
  <br>
 - Error found in knight with a shield. The defence stat isn't correct. Should increase defence by 10, so total defence should be 20. 
 org.opentest4j.AssertionFailedError: expected: <20> but was: <10>
